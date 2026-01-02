@@ -18,5 +18,5 @@ This project performs exploratory data analysis and visualization on the Zomato 
 
 ## How to Run
 1. Open the notebook in Google Colab using the link above  
-2. Upload the dataset (if required)  
+2. Upload the dataset  
 3. Run cells sequentially
